@@ -17,4 +17,4 @@ En este perfil, encontrarás una variedad de proyectos que incluyen:
 
 ## Contacto
 
-* Correo electrónico: valerielasso@gmail.com (corregí el dominio de "gmil" a "gmail")
+* Correo electrónico: valerielasso@gmail.com 
