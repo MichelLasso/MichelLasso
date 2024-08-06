@@ -17,7 +17,8 @@ En este perfil, encontrarás una variedad de proyectos que incluyen:
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=MichelLasso&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
-
+  />
+  <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelLasso&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical" />
 </picture>
    <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelLasso&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
    <br>
