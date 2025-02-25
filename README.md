@@ -24,7 +24,7 @@ En este perfil, encontrarás una variedad de proyectos que incluyen:
    <br>
 </div>
 
-* Lenguajes de programación: Python, HTML y CSS.
+* Lenguajes de programación: Python, HTML,CSS, Java, JavaScript, Scrum, MySQL.
 * Herramientas: Git, GitHub, Visual Studio Code.
 
 ## Contacto
