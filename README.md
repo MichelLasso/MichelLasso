@@ -1,6 +1,19 @@
-# Bienvenido a mi perfil
+#
 
-Hola, soy Valerie Lasso, una aprendiz en el mundo del software. En este perfil, comparto con ustedes mi progreso mediante los repositorios, que contienen mi avance, progreso y experimentación en diferentes lenguajes de programación, incluyendo Python, HTML y CSS. Me enfoco en aprender y adquirir habilidades prácticas y teóricas en desarrollo de software.
+
+# :start: Bienvenido a mi perfil 
+
+#
+<div align="center" >
+
+![alt text](2.png)
+
+<div>
+
+#
+
+
+Hola, soy Valerie Lasso, una aprendiz en el mundo del software. En este perfil, comparto con ustedes mi progreso mediante los repositorios, que proyectan mi avance, progreso y experiencia en diferentes lenguajes de programación, incluyendo Python, HTML y CSS. Me enfoco en aprender y adquirir habilidades prácticas y teóricas en desarrollo de software.
 
 ## Proyectos y repositorios
 
@@ -13,13 +26,6 @@ En este perfil, encontrarás una variedad de proyectos que incluyen:
 ## Tecnologías y herramientas
 
 <div align="center" >
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MichelLasso&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelLasso&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical" />
-</picture>
    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelLasso&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
    <br>
 </div>
@@ -29,4 +35,5 @@ En este perfil, encontrarás una variedad de proyectos que incluyen:
 
 ## Contacto
 
-* Correo electrónico: valerielasso@gmail.com 
+* :cat: Correo electrónico: valerie01liz01@gmail.com 
+ 
