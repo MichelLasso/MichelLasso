@@ -1,19 +1,12 @@
-#
+# 
 
-
-# :start: Bienvenido a mi perfil 
-
-#
-<div align="center" >
-
-![alt text](2.png)
-
-<div>
-
-#
-
-
-Hola, soy Valerie Lasso, una aprendiz en el mundo del software. En este perfil, comparto con ustedes mi progreso mediante los repositorios, que proyectan mi avance, progreso y experiencia en diferentes lenguajes de programación, incluyendo Python, HTML y CSS. Me enfoco en aprender y adquirir habilidades prácticas y teóricas en desarrollo de software.
+<div align="center">
+        <img src="download-removebg-preview.png" style="width: 80px;">
+         <img src="2.png" style="margin-top: 5vw;">
+        <div style="color:;font-size: 7vw; margin-bottom:3vw; margin-top: 6vw;">Bienvenido a mi perfil</div>
+         Hola, soy Valerie Lasso, una aprendiz en el mundo del software. En este perfil, comparto con ustedes mi aprendizaje mediante los repositorios, loa cueales proyectan mi avance, progreso y experiencia en diferentes lenguajes de programación. Me enfoco en aprender y adquirir habilidades prácticas y teóricas en desarrollo de software.
+    </div>
+</div>
 
 ## Proyectos y repositorios
 
