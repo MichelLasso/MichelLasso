@@ -1,8 +1,5 @@
 <div align="center">
-<br>
-<br>
-<br>
-<br>
+˚₊‧ა. Valerie .໒‧₊˚
 <img src="2.png">
 <br>
 <br>
