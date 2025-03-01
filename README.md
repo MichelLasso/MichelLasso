@@ -7,7 +7,7 @@
 ## ✩‧₊ ¡Bienvenid@ a mi perfil! ‧₊
 Hola, soy Valerie Lasso, una apasionada aprendiz del mundo del desarrollo de software. Aquí comparto mi evolución a través de proyectos y repositorios que reflejan mi aprendizaje, crecimiento y experiencia en diferentes lenguajes y tecnologías.
 
-Siempre estoy explorando nuevas herramientas y metodologías para fortalecer mis habilidades tanto en la teoría como en la práctica.
+Estoy dispuesta a explorar nuevas herramientas y metodologías para fortalecer mis habilidades tanto en la teoría como en la práctica.
 
 #
 ##  Tecnologías y herramientas
