@@ -13,8 +13,11 @@ Estoy dispuesta a explorar nuevas herramientas y metodologías para fortalecer m
 ##  Tecnologías y herramientas
 <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelLasso&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
    <br>
+   
 Lenguajes de programación: Python, HTML, CSS, Java, JavaScript, MySQL
+
 Metodologías y prácticas: Scrum
+
 Herramientas: Git, GitHub, Visual Studio Code
 
 #
